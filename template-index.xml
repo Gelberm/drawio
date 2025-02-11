@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="example">
-    <add>Uhttps://github.com/Gelberm/drawio.git/Libraries/samplelibrary.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/Gelberm/drawio/refs/heads/main/Libraries/samplelibrary.xml</add>
   </clibs>
 </templates>
-
