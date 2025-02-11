@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <templates>
-  <clibs name="example">
+  <clibs name="samplelibrary">
     <add>https://raw.githubusercontent.com/Gelberm/drawio/refs/heads/main/Libraries/samplelibrary.xml</add>
   </clibs>
   <template section="Flow" subsection="Flow diagram" title="Diagram" name="Tooltip" clibs="example" url="https://raw.githubusercontent.com/jgraph/drawio/refs/heads/dev/src/main/webapp/templates/flowcharts/cross_functional_flowchart_1.xml"/>
